@@ -163,7 +163,7 @@ zoo.cfg文件中的参数含义：
 
 1）监听节点数据的变化： 
 
-`get path [watch] `
+`get path [watch] `  
 2）监听子节点增减的变化 
 `ls path [watch] `
 
